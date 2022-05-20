@@ -3005,3 +3005,15 @@ input, select, textarea {
 		text-decoration: none;
 		list-style: none;
 	}
+
+	.pao{
+		width: 70%;
+		text-align: center;
+		margin-left: 50px;
+	}
+
+	.fatia{
+		width: 85%;
+		text-align: center;
+		margin-left: 50px;
+	}
