@@ -2993,6 +2993,7 @@ input, select, textarea {
 
 	.imagem1{
 		margin: 0px auto;
+		text-align: center;
 		width: 50%;
 	}
 
@@ -3017,5 +3018,4 @@ input, select, textarea {
 		text-align: center;
 		margin-left: 50px;
 	}
-	
 	
