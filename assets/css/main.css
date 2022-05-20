@@ -2987,7 +2987,7 @@ input, select, textarea {
 						#copyright ul li:first-child {
 							margin-top: 0;
 						}
-
+						
 	}
 
 
@@ -2995,6 +2995,8 @@ input, select, textarea {
 		margin: 0px auto;
 		text-align: center;
 		width: 50%;
+		display: flex;
+		margin-left: 350px;
 	}
 
 	a{
@@ -3019,3 +3021,9 @@ input, select, textarea {
 		margin-left: 50px;
 	}
 	
+	@media screen and (max-width: 736px){
+		.imagem1{
+			margin-left: 125px;
+			height: 200px;
+		}
+	}
