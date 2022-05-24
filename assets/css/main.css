@@ -3031,9 +3031,10 @@ input, select, textarea {
 
 	::-webkit-scrollbar{
 		width: 10px;
-		background-color: rgb(209, 209, 209);
+		background-color: #1f232b;
 }
 	::-webkit-scrollbar-thumb{
 		background-color: red;
 		border-radius: 10px;
-	}
+}
+
