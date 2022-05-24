@@ -3027,3 +3027,17 @@ input, select, textarea {
 			height: 200px;
 		}
 	}
+
+
+	::-webkit-scrollbar{
+		width: 10px;
+		background-color: rgb(209, 209, 209);
+}
+	::-webkit-scrollbar-thumb{
+		background-color: red;
+		border-radius: 10px;
+	}
+
+	body{
+		
+	}
