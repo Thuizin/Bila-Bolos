@@ -3035,6 +3035,6 @@ input, select, textarea {
 }
 	::-webkit-scrollbar-thumb{
 		background-color: red;
-		border-radius: 10px;
+		border-radius: 5px;
 }
 
